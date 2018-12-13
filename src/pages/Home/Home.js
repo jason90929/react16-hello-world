@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import logo from '../../logo.svg'
-import Counter from '../../components/Counter'
 import './Home.scss'
 
 class Home extends Component {
