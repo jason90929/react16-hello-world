@@ -1,8 +1,7 @@
-import React from 'react'
 import PropTypes from 'prop-types'
 import routes from './routes'
 
-const App = ({ history }) => (
+const App = () => (
   routes
 )
 
